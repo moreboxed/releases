@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Moreboxed Changelog</title>
+    <link>https://moreboxed.com/appcast.xml</link>
+    <description>Latest updates for Moreboxed</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.67</title>
+      <pubDate>Tue, 30 Jun 2026 06:12:52 +0000</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>0.1.67</sparkle:shortVersionString>
+      <description><![CDATA[
+        <p>Moreboxed 0.1.67 release. See <a href="https://github.com/moreboxed/moreboxed/releases/tag/v0.1.67">release notes</a>.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/moreboxed/releases/releases/download/v0.1.67/Moreboxed-0.1.67.zip"
+        sparkle:edSignature="cuHvaUCm/rGWpboQ3iD0DX5AG1M7c4OtBo5iGFjub/D3+dHDaHi7GU0zkTizowWerVnd0Bvc3v+Hc+556zUqBA=="
+        length="9406881"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
